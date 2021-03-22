@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "716952913058",
+    "firebase_url": "https://gigs-29913.firebaseio.com",
+    "project_id": "gigs-29913",
+    "storage_bucket": "gigs-29913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716952913058:android:4c1182f01017f504",
+        "android_client_info": {
+          "package_name": "dreamguys.in.co.gigs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716952913058-77t59p44unpe8h3r92045778viak9flj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dreamguys.in.co.gigs",
+            "certificate_hash": "beef5504b2ffcde331617d3f1dd8868c8bfe20d5"
+          }
+        },
+        {
+          "client_id": "716952913058-ub19o6s5m24oo0160bngil4if3fijkeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3uV-nnGPYrfwk-38QUeUKm6YTQ6rLMck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716952913058-ub19o6s5m24oo0160bngil4if3fijkeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
